@@ -9,5 +9,5 @@ export type StudentsType = {
 
 export type GlobalStore = {
     students: StudentsType[];
-    groups?: any[];
+    groups?: StudentsType[];
 };

@@ -9,6 +9,6 @@ export interface StudentTypes {
   name: string;
   age: number;
   gender: 'Male' | 'Female';
-  grade: string;
+  grade?: string;
   address: string;
 }

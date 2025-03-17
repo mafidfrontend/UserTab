@@ -14,7 +14,7 @@ export default function Header() {
           alt="Account image"
         />
         <div>
-          <h2 className="text-xl font-semibold">John Doe</h2>
+          <h2 className="text-xl font-semibold">Abdulloh</h2>
           <span>123456</span>
         </div>
       </div>
